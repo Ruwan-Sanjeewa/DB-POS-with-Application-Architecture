@@ -52,7 +52,7 @@ public class AppInitializer extends Application {
 
         Scene mainScene = new Scene(root);
 
-        primaryStage.setTitle("IJSE FX POS - In Memory DB");
+        primaryStage.setTitle("IJSE FX POS ");
         primaryStage.setScene(mainScene);
         primaryStage.setResizable(false);
 
